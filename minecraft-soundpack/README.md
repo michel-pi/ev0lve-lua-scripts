@@ -1,6 +1,6 @@
 # Installation
 
-Download the [Minecraft Footstep Sounds](https://github.com/michel-pi/ev0lve-lua-scripts/minecraft-soundpack/files/minecraft-soundpack.zip "Minecraft Footstep Sounds") and extract it into your csgo sounds folder which is typically located at
+Download the [Minecraft Footstep Sounds](https://github.com/michel-pi/ev0lve-lua-scripts/raw/master/minecraft-soundpack/files/minecraft-soundpack.zip "Minecraft Footstep Sounds") and extract it into your csgo sounds folder which is typically located at
 
     "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\sound"
 
